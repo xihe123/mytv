@@ -1,0 +1,665 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>看雪的时候</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Microsoft YaHei', 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #333;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            box-shadow: 0 0 30px rgba(0,0,0,0.1);
+        }
+        
+        /* 头部样式 */
+        .header {
+            position: relative;
+            height: 400px;
+            background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.3)), 
+                        url('https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80');
+            background-size: cover;
+            background-position: center;
+            color: white;
+        }
+        
+        .header-content {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+        }
+        
+        .site-title {
+            font-family: 'Brush Script MT', cursive;
+            font-size: 4rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        }
+        
+        .site-subtitle {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+        
+        /* 导航栏 */
+        .navbar {
+            background: rgba(255,255,255,0.95);
+            padding: 15px 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .nav-links {
+            display: flex;
+            justify-content: center;
+            list-style: none;
+            gap: 30px;
+        }
+        
+        .nav-links a {
+            text-decoration: none;
+            color: #333;
+            font-weight: 500;
+            padding: 8px 16px;
+            border-radius: 20px;
+            transition: all 0.3s;
+        }
+        
+        .nav-links a:hover {
+            background: #667eea;
+            color: white;
+        }
+        
+        /* 主要内容区 */
+        .main-content {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 40px;
+            padding: 40px;
+        }
+        
+        /* 左侧文章区 */
+        .blog-posts {
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+        
+        .post {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+            transition: transform 0.3s;
+        }
+        
+        .post:hover {
+            transform: translateY(-5px);
+        }
+        
+        .post-image {
+            width: 100%;
+            height: 250px;
+            object-fit: cover;
+        }
+        
+        .post-content {
+            padding: 25px;
+        }
+        
+        .post-title {
+            font-size: 1.5rem;
+            color: #2c3e50;
+            margin-bottom: 15px;
+        }
+        
+        .post-excerpt {
+            color: #666;
+            margin-bottom: 20px;
+            line-height: 1.8;
+        }
+        
+        .post-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-top: 15px;
+            border-top: 1px solid #eee;
+            color: #888;
+            font-size: 0.9rem;
+        }
+        
+        .post-stats {
+            display: flex;
+            gap: 15px;
+        }
+        
+        .stat {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        
+        /* 右侧侧边栏 */
+        .sidebar {
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+        
+        .widget {
+            background: white;
+            border-radius: 10px;
+            padding: 25px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+        }
+        
+        .widget-title {
+            font-size: 1.2rem;
+            color: #2c3e50;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #667eea;
+        }
+        
+        /* 关于我模块 */
+        .about-me {
+            text-align: center;
+        }
+        
+        .avatar {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 15px;
+            border: 3px solid #667eea;
+        }
+        
+        .username {
+            font-size: 1.3rem;
+            color: #2c3e50;
+            margin-bottom: 5px;
+        }
+        
+        .profession {
+            color: #667eea;
+            margin-bottom: 15px;
+        }
+        
+        .contact-info {
+            margin: 15px 0;
+        }
+        
+        .contact-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin: 8px 0;
+            color: #555;
+        }
+        
+        .social-icons {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 20px;
+        }
+        
+        .social-icon {
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            background: #f0f0f0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #667eea;
+            text-decoration: none;
+            transition: all 0.3s;
+        }
+        
+        .social-icon:hover {
+            background: #667eea;
+            color: white;
+            transform: scale(1.1);
+        }
+        
+        /* 搜索框 */
+        .search-box {
+            display: flex;
+        }
+        
+        .search-input {
+            flex: 1;
+            padding: 12px 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 25px 0 0 25px;
+            font-size: 1rem;
+            outline: none;
+        }
+        
+        .search-btn {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 0 25px;
+            border-radius: 0 25px 25px 0;
+            cursor: pointer;
+            font-weight: 500;
+        }
+        
+        /* 音乐播放器 */
+        .music-player {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+        
+        .music-info {
+            flex: 1;
+        }
+        
+        .music-title {
+            font-weight: 500;
+            margin-bottom: 5px;
+        }
+        
+        .music-artist {
+            color: #888;
+            font-size: 0.9rem;
+        }
+        
+        .music-controls {
+            display: flex;
+            gap: 10px;
+        }
+        
+        .control-btn {
+            background: none;
+            border: none;
+            color: #667eea;
+            font-size: 1.2rem;
+            cursor: pointer;
+        }
+        
+        /* 推荐文章 */
+        .recommended-list {
+            list-style: none;
+        }
+        
+        .recommended-item {
+            padding: 12px 0;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .recommended-item:last-child {
+            border-bottom: none;
+        }
+        
+        .recommended-item a {
+            text-decoration: none;
+            color: #555;
+            transition: color 0.3s;
+        }
+        
+        .recommended-item a:hover {
+            color: #667eea;
+        }
+        
+        /* 底部 */
+        .footer {
+            background: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 30px;
+            margin-top: 40px;
+        }
+        
+        /* 响应式设计 */
+        @media (max-width: 768px) {
+            .main-content {
+                grid-template-columns: 1fr;
+                padding: 20px;
+            }
+            
+            .nav-links {
+                flex-wrap: wrap;
+                gap: 10px;
+                padding: 0 20px;
+            }
+            
+            .header {
+                height: 300px;
+            }
+            
+            .site-title {
+                font-size: 2.5rem;
+            }
+        }
+        
+        /* 动画效果 */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .fade-in {
+            animation: fadeIn 0.6s ease-out;
+        }
+        
+        /* 雪花效果 */
+        .snowflake {
+            position: fixed;
+            top: -10px;
+            color: white;
+            font-size: 1em;
+            opacity: 0.8;
+            pointer-events: none;
+            z-index: 1000;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- 头部 -->
+        <header class="header">
+            <div class="header-content">
+                <h1 class="site-title">Xi...</h1>
+                <p class="site-subtitle">看雪的时候</p>
+            </div>
+        </header>
+        
+        <!-- 导航栏 -->
+        <nav class="navbar">
+            <ul class="nav-links">
+                <li><a href="#home">博客首页</a></li>
+                <li><a href="#profile">个人档案模板</a></li>
+                <li><a href="#album">相册推荐</a></li>
+                <li><a href="#websites">网站欣赏</a></li>
+                <li><a href="#css">CSS/HTML</a></li>
+                <li><a href="#support">技术支持</a></li>
+                <li><a href="#life">找生活</a></li>
+                <li><a href="#games">游戏联盟</a></li>
+            </ul>
+        </nav>
+        
+        <!-- 主要内容区 -->
+        <div class="main-content">
+            <!-- 左侧文章区 -->
+            <div class="blog-posts">
+                <!-- 横幅广告 -->
+                <div class="post fade-in">
+                    <img src="https://images.unsplash.com/photo-1516912481808-3406841bd33c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" 
+                         alt="雪景街道" class="post-image">
+                </div>
+                
+                <!-- 文章1 -->
+                <article class="post fade-in">
+                    <img src="https://images.unsplash.com/photo-1549476464-37392f717541?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                         alt="雪中回眸" class="post-image">
+                    <div class="post-content">
+                        <h2 class="post-title">雪，温暖了整个冬天</h2>
+                        <p class="post-excerpt">
+                            冬天，是一个充满诗意的季节。当雪花纷纷扬扬地飘落，整个世界都变得安静而美好。雪，不仅覆盖了大地，也温暖了我们的心灵。在这个寒冷的季节里，雪花如同天使的羽毛，轻轻飘落，给世界披上了一层银装。人生就像一场旅行，我们在不同的季节里遇见不同的风景，而冬天的雪，无疑是最美的风景之一。
+                        </p>
+                        <div class="post-meta">
+                            <span class="post-date">发布时间：2010-12-1</span>
+                            <div class="post-stats">
+                                <span class="stat">👍 34</span>
+                                <span class="stat">❤️ 32</span>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                
+                <!-- 文章2 -->
+                <article class="post fade-in">
+                    <img src="https://images.unsplash.com/photo-1517299321609-52687d1bc55a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                         alt="雪地情侣" class="post-image">
+                    <div class="post-content">
+                        <h2 class="post-title">说好好看看第一场雪，雪下了，你在哪？</h2>
+                        <p class="post-excerpt">
+                            像童话，当你落下来的那一刻，整个世界都变得纯净而美好。雪花轻轻飘落，每一片都带着独特的形状，像是天空写给大地的情书。我站在雪地里，看着雪花一片片落下，想起了我们曾经的约定。我们说好要一起看第一场雪，现在雪已经下了，可是你在哪里呢？或许，有些约定就像雪花一样，美丽却短暂，但那份美好会永远留在心底。
+                        </p>
+                        <div class="post-meta">
+                            <span class="post-date">发布时间：2010-12-1</span>
+                            <div class="post-stats">
+                                <span class="stat">👍 56</span>
+                                <span class="stat">❤️ 102</span>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
+            
+            <!-- 右侧侧边栏 -->
+            <aside class="sidebar">
+                <!-- 关于我 -->
+                <div class="widget about-me">
+                    <h3 class="widget-title">关于我</h3>
+                    <img src="https://images.unsplash.com/photo-1494790108755-2616b612b786?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
+                         alt="博主头像" class="avatar">
+                    <h4 class="username">key | 幕末未来</h4>
+                    <p class="profession">······························</p>
+                    
+                    <div class="contact-info">
+                        <div class="contact-item">
+                            <span>📞</span>
+                            <span>138-</span>
+                        </div>
+                        <div class="contact-item">
+                            <span>✉️</span>
+                            <span>key@example.com</span>
+                        </div>
+                    </div>
+                    
+                    <div class="social-icons">
+                        <a href="#" class="social-icon" title="主页">🏠</a>
+                        <a href="#" class="social-icon" title="评论">💬</a>
+                        <a href="#" class="social-icon" title="收藏">⭐</a>
+                        <a href="#" class="social-icon" title="关注">👁️</a>
+                        <a href="#" class="social-icon" title="喜欢">❤️</a>
+                    </div>
+                </div>
+                
+                <!-- 搜索框 -->
+                <div class="widget">
+                    <h3 class="widget-title">搜索</h3>
+                    <div class="search-box">
+                        <input type="text" class="search-input" placeholder="搜索文章...">
+                        <button class="search-btn">搜索</button>
+                    </div>
+                </div>
+                
+                <!-- 音乐播放器 -->
+                <div class="widget">
+                    <h3 class="widget-title">正在播放</h3>
+                    <div class="music-player">
+                        <div class="music-info">
+                            <div class="music-title">Winter Snow</div>
+                            <div class="music-artist">Snowflakes Band</div>
+                        </div>
+                        <div class="music-controls">
+                            <button class="control-btn" onclick="togglePlay()">▶️</button>
+                            <button class="control-btn">⏸️</button>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- 推荐文章 -->
+                <div class="widget">
+                    <h3 class="widget-title">推荐文章</h3>
+                    <ul class="recommended-list">
+                        <li class="recommended-item"><a href="#">广东省电子商务技师学院</a></li>
+                        <li class="recommended-item"><a href="#">冰蓝花十请阅视图文集第98个个人...</a></li>
+                        <li class="recommended-item"><a href="#">花开花落一百零一个个人微博榜</a></li>
+                        <li class="recommended-item"><a href="#">日记：心情随笔某个个人博客模板</a></li>
+                        <li class="recommended-item"><a href="#">九月梦星园天地情感空间个人博客</a></li>
+                        <li class="recommended-item"><a href="#">广州博悦国际--玉龙山庄旅游博客</a></li>
+                        <li class="recommended-item"><a href="#">个人毕业纪念记录博客堂</a></li>
+                        <li class="recommended-item"><a href="#">毕业了，一起看看暑期班那些伤心片儿！</a></li>
+                    </ul>
+                </div>
+            </aside>
+        </div>
+        
+
+
+    <script>
+        // 页面加载动画
+        document.addEventListener('DOMContentLoaded', function() {
+            const fadeElements = document.querySelectorAll('.fade-in');
+            fadeElements.forEach((el, index) => {
+                el.style.animationDelay = `${index * 0.2}s`;
+            });
+            
+            // 初始化音乐播放器
+            initMusicPlayer();
+            
+            // 添加雪花效果
+            createSnowflakes();
+        });
+        
+        // 音乐播放器控制
+        let isPlaying = false;
+        
+        function togglePlay() {
+            isPlaying = !isPlaying;
+            const playBtn = document.querySelector('.control-btn');
+            playBtn.textContent = isPlaying ? '⏸️' : '▶️';
+            
+            // 这里可以添加实际的音频播放逻辑
+            if (isPlaying) {
+                console.log('开始播放音乐...');
+            } else {
+                console.log('暂停音乐...');
+            }
+        }
+        
+        // 搜索功能
+        document.querySelector('.search-btn').addEventListener('click', function() {
+            const query = document.querySelector('.search-input').value;
+            if (query.trim()) {
+                alert(`搜索: ${query}\n（实际项目中这里会跳转到搜索结果页）`);
+            }
+        });
+        
+        // 导航栏滚动效果
+        window.addEventListener('scroll', function() {
+            const navbar = document.querySelector('.navbar');
+            if (window.scrollY > 100) {
+                navbar.style.position = 'fixed';
+                navbar.style.top = '0';
+                navbar.style.width = '100%';
+                navbar.style.zIndex = '1000';
+            } else {
+                navbar.style.position = 'static';
+            }
+        });
+        
+        // 创建雪花效果
+        function createSnowflakes() {
+            const snowflakeContainer = document.createElement('div');
+            snowflakeContainer.style.position = 'fixed';
+            snowflakeContainer.style.top = '0';
+            snowflakeContainer.style.left = '0';
+            snowflakeContainer.style.width = '100%';
+            snowflakeContainer.style.height = '100%';
+            snowflakeContainer.style.pointerEvents = 'none';
+            snowflakeContainer.style.zIndex = '999';
+            document.body.appendChild(snowflakeContainer);
+            
+            const snowflakes = ['❄️', '❅', '❆', '•'];
+            
+            for (let i = 0; i < 30; i++) {
+                const snowflake = document.createElement('div');
+                snowflake.className = 'snowflake';
+                snowflake.textContent = snowflakes[Math.floor(Math.random() * snowflakes.length)];
+                snowflake.style.left = `${Math.random() * 100}vw`;
+                snowflake.style.fontSize = `${Math.random() * 20 + 10}px`;
+                snowflake.style.opacity = Math.random() * 0.5 + 0.3;
+                snowflakeContainer.appendChild(snowflake);
+                
+                // 雪花动画
+                animateSnowflake(snowflake);
+            }
+        }
+        
+        function animateSnowflake(snowflake) {
+            let posY = -10;
+            let posX = parseFloat(snowflake.style.left);
+            const speed = Math.random() * 2 + 1;
+            const sway = Math.random() * 2 - 1;
+            
+            function fall() {
+                posY += speed;
+                posX += sway * Math.sin(posY / 50);
+                
+                snowflake.style.top = `${posY}px`;
+                snowflake.style.left = `${posX}vw`;
+                
+                if (posY < window.innerHeight) {
+                    requestAnimationFrame(fall);
+                } else {
+                    // 重置雪花位置
+                    posY = -10;
+                    posX = Math.random() * 100;
+                    snowflake.style.left = `${posX}vw`;
+                    requestAnimationFrame(fall);
+                }
+            }
+            
+            fall();
+        }
+        
+        // 文章点赞功能
+        document.querySelectorAll('.stat').forEach(stat => {
+            stat.addEventListener('click', function() {
+                const currentCount = parseInt(this.textContent.match(/\d+/));
+                this.textContent = this.textContent.replace(/\d+/, currentCount + 1);
+                
+                // 添加动画效果
+                this.style.transform = 'scale(1.2)';
+                setTimeout(() => {
+                    this.style.transform = 'scale(1)';
+                }, 200);
+            });
+        });
+        
+        // 初始化音乐播放器
+        function initMusicPlayer() {
+            const musicTitles = [
+                { title: "Winter Snow", artist: "Snowflakes Band" },
+                { title: "Snowfall", artist: "Ambient Dreams" },
+                { title: "Frozen Melody", artist: "Ice Symphony" },
+                { title: "Snowflake Waltz", artist: "Winter Orchestra" }
+            ];
+            
+            let currentTrack = 0;
+            
+            // 切换音乐
+            document.querySelectorAll('.control-btn').addEventListener('click', function() {
+                currentTrack = (currentTrack + 1) % musicTitles.length;
+                const track = musicTitles[currentTrack];
+                document.querySelector('.music-title').textContent = track.title;
+                document.querySelector('.music-artist').textContent = track.artist;
+            });
+        }
+    </script>
+</body>
+</html>
