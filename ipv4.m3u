@@ -1,0 +1,793 @@
+#EXTM3U x-tvg-url="http://epg.myhone.dpdns.org/e.xml"
+#EXTINF:-1 tvg-name="更新时间: 2026-10-08 11:53:40" tvg-logo="http://epg.myhone.dpdns.org/tv/更新时间: 2026-10-08 11:53:40.png",更新时间: 2026-10-08 11:53:40
+http://127.0.0.1/
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV1.png",CCTV1
+http://112.27.5.218:9901/tsfile/live/faacts/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV1.png",CCTV1
+http://218.13.139.26:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV1.png",CCTV1
+http://113.57.140.161:10081/newlive/live/hls/1/live.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV1.png",CCTV1
+http://192.168.102.1/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV1.png",CCTV1
+http://192.168.102.1/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV2.png",CCTV2
+http://112.27.5.218:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV2.png",CCTV2
+http://218.13.139.26:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV2.png",CCTV2
+http://113.57.140.161:10081/newlive/live/hls/2/live.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV2.png",CCTV2
+http://192.168.102.1/hls/81/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV2.png",CCTV2
+http://192.168.102.1/hls/81/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV3.png",CCTV3
+http://112.27.5.218:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV3.png",CCTV3
+http://218.13.139.26:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV3.png",CCTV3
+http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV3.png",CCTV3
+http://192.168.102.1/hls/3/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV3.png",CCTV3
+http://192.168.102.1/hls/3/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV4.png",CCTV4
+http://112.27.5.218:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV4.png",CCTV4
+http://218.13.139.26:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV4.png",CCTV4
+http://113.57.140.161:10081/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV4.png",CCTV4
+http://192.168.102.1/hls/4/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV4.png",CCTV4
+http://192.168.102.1/hls/4/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV5.png",CCTV5
+http://112.27.5.218:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV5.png",CCTV5
+http://218.13.139.26:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV5.png",CCTV5
+http://113.57.140.161:10081/newlive/live/hls/5/live.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV5.png",CCTV5
+http://192.168.102.1/hls/5/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV5.png",CCTV5
+http://192.168.102.1/hls/5/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV5.png",CCTV5+
+http://112.27.5.218:9901/tsfile/live/faacts/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV5.png",CCTV5+
+http://218.13.139.26:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV5.png",CCTV5+
+http://113.57.140.161:10081/newlive/live/hls/6/live.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV5.png",CCTV5+
+http://192.168.102.1/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV5.png",CCTV5+
+http://192.168.102.1/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV6.png",CCTV6
+http://112.27.5.218:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV6.png",CCTV6
+http://218.13.139.26:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV6.png",CCTV6
+http://113.57.140.161:10081/newlive/live/hls/7/live.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV6.png",CCTV6
+http://192.168.102.1/hls/6/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV6.png",CCTV6
+http://192.168.102.1/hls/6/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV7.png",CCTV7
+http://112.27.5.218:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV7.png",CCTV7
+http://218.13.139.26:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV7.png",CCTV7
+http://113.57.140.161:10081/newlive/live/hls/8/live.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV7.png",CCTV7
+http://192.168.102.1/hls/7/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV7.png",CCTV7
+http://192.168.102.1/hls/7/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV8.png",CCTV8
+http://112.27.5.218:9901/tsfile/live/faacts/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV8.png",CCTV8
+http://218.13.139.26:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV8.png",CCTV8
+http://113.57.140.161:10081/newlive/live/hls/9/live.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV8.png",CCTV8
+http://192.168.102.1/hls/8/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV8.png",CCTV8
+http://192.168.102.1/hls/8/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV9.png",CCTV9
+http://112.27.5.218:9901/tsfile/live/faacts/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV9.png",CCTV9
+http://218.13.139.26:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV9.png",CCTV9
+http://113.57.140.161:10081/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV9.png",CCTV9
+http://192.168.102.1/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV9.png",CCTV9
+http://192.168.102.1/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV10.png",CCTV10
+http://112.27.5.218:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV10.png",CCTV10
+http://218.13.139.26:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV10.png",CCTV10
+http://113.57.140.161:10081/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV10.png",CCTV10
+http://192.168.102.1/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV10.png",CCTV10
+http://192.168.102.1/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV11.png",CCTV11
+http://112.27.5.218:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV11.png",CCTV11
+http://218.13.139.26:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV11.png",CCTV11
+http://113.57.140.161:10081/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV12.png",CCTV12
+http://112.27.5.218:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV12.png",CCTV12
+http://218.13.139.26:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV12.png",CCTV12
+http://113.57.140.161:10081/newlive/live/hls/13/live.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV12.png",CCTV12
+http://192.168.102.1/hls/12/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV12.png",CCTV12
+http://192.168.102.1/hls/12/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV13.png",CCTV13
+http://112.27.5.218:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV13.png",CCTV13
+http://218.13.139.26:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV13.png",CCTV13
+http://113.57.140.161:10081/newlive/live/hls/14/live.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV13.png",CCTV13
+http://192.168.102.1/hls/13/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV13.png",CCTV13
+http://192.168.102.1/hls/13/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV14.png",CCTV14
+http://112.27.5.218:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV14.png",CCTV14
+http://218.13.139.26:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV14.png",CCTV14
+http://113.57.140.161:10081/newlive/live/hls/15/live.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV14.png",CCTV14
+http://192.168.102.1/hls/14/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV14.png",CCTV14
+http://192.168.102.1/hls/14/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV15.png",CCTV15
+http://112.27.5.218:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV15.png",CCTV15
+http://218.13.139.26:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV15.png",CCTV15
+http://113.57.140.161:10081/newlive/live/hls/16/live.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV15.png",CCTV15
+http://192.168.102.1/hls/15/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV15.png",CCTV15
+http://192.168.102.1/hls/15/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV16.png",CCTV16
+http://112.27.5.218:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV16.png",CCTV16
+http://113.57.140.161:10081/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV16.png",CCTV16
+http://192.168.102.1/hls/16/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV16.png",CCTV16
+http://192.168.102.1/hls/16/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV17.png",CCTV17
+http://112.27.5.218:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV17.png",CCTV17
+http://218.13.139.26:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV17.png",CCTV17
+http://192.168.102.1/hls/17/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.myhone.dpdns.org/tv/CCTV17.png",CCTV17
+http://192.168.102.1/hls/17/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/东南卫视.png",东南卫视
+http://112.27.5.218:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/东南卫视.png",东南卫视
+http://218.13.139.26:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/东南卫视.png",东南卫视
+http://113.57.140.161:10081/newlive/live/hls/20/live.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/东南卫视.png",东南卫视
+http://192.168.102.1/hls/37/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/东南卫视.png",东南卫视
+http://192.168.102.1/hls/37/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/东方卫视.png",东方卫视
+http://112.27.5.218:9901/tsfile/live/faacts/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/东方卫视.png",东方卫视
+http://218.13.139.26:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/东方卫视.png",东方卫视
+http://113.57.140.161:10081/newlive/live/hls/29/live.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/东方卫视.png",东方卫视
+http://192.168.102.1/hls/27/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/东方卫视.png",东方卫视
+http://192.168.102.1/hls/27/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/云南卫视.png",云南卫视
+http://192.168.102.1/hls/49/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/云南卫视.png",云南卫视
+http://192.168.102.1/hls/49/index.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/兵团卫视.png",兵团卫视
+http://192.168.102.1/hls/58/index.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/兵团卫视.png",兵团卫视
+http://192.168.102.1/hls/58/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/内蒙古卫视.png",内蒙古卫视
+http://192.168.102.1/hls/53/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/内蒙古卫视.png",内蒙古卫视
+http://192.168.102.1/hls/53/index.m3u8
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/农林卫视.png",农林卫视
+http://112.27.5.218:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/北京卫视.png",北京卫视
+http://112.27.5.218:9901/tsfile/live/0122_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/北京卫视.png",北京卫视
+http://112.27.5.218:9901/tsfile/live/faacts/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/北京卫视.png",北京卫视
+http://218.13.139.26:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/北京卫视.png",北京卫视
+http://192.168.102.1/hls/29/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/北京卫视.png",北京卫视
+http://192.168.102.1/hls/29/index.m3u8
+#EXTINF:-1 tvg-name="南方卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/南方卫视.png",南方卫视
+http://192.168.102.1/hls/32/index.m3u8
+#EXTINF:-1 tvg-name="南方卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/南方卫视.png",南方卫视
+http://192.168.102.1/hls/32/index.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/厦门卫视.png",厦门卫视
+http://113.57.140.161:10081/newlive/live/hls/28/live.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/厦门卫视.png",厦门卫视
+http://192.168.102.1/hls/57/index.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/厦门卫视.png",厦门卫视
+http://192.168.102.1/hls/57/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/吉林卫视.png",吉林卫视
+http://112.27.5.218:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/吉林卫视.png",吉林卫视
+http://218.13.139.26:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/吉林卫视.png",吉林卫视
+http://192.168.102.1/hls/51/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/吉林卫视.png",吉林卫视
+http://192.168.102.1/hls/51/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/四川卫视.png",四川卫视
+http://112.27.5.218:9901/tsfile/live/faacts/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/四川卫视.png",四川卫视
+http://218.13.139.26:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/四川卫视.png",四川卫视
+http://192.168.102.1/hls/39/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/四川卫视.png",四川卫视
+http://192.168.102.1/hls/39/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/天津卫视.png",天津卫视
+http://218.13.139.26:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/天津卫视.png",天津卫视
+http://192.168.102.1/hls/26/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/天津卫视.png",天津卫视
+http://192.168.102.1/hls/26/index.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/宁夏卫视.png",宁夏卫视
+http://192.168.102.1/hls/52/index.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/宁夏卫视.png",宁夏卫视
+http://192.168.102.1/hls/52/index.m3u8
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/安多卫视.png",安多卫视
+http://192.168.102.1/hls/61/index.m3u8
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/安多卫视.png",安多卫视
+http://192.168.102.1/hls/61/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/安徽卫视.png",安徽卫视
+http://112.27.5.218:9901/tsfile/live/faacts/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/安徽卫视.png",安徽卫视
+http://112.27.5.218:9901/tsfile/live/0130_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/安徽卫视.png",安徽卫视
+http://218.13.139.26:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/安徽卫视.png",安徽卫视
+http://113.57.140.161:10081/newlive/live/hls/40/live.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/安徽卫视.png",安徽卫视
+http://192.168.102.1/hls/36/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/安徽卫视.png",安徽卫视
+http://192.168.102.1/hls/36/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/山东卫视.png",山东卫视
+http://112.27.5.218:9901/tsfile/live/faacts/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/山东卫视.png",山东卫视
+http://218.13.139.26:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/山东卫视.png",山东卫视
+http://113.57.140.161:10081/newlive/live/hls/35/live.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/山东卫视.png",山东卫视
+http://192.168.102.1/hls/34/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/山东卫视.png",山东卫视
+http://192.168.102.1/hls/34/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/山西卫视.png",山西卫视
+http://112.27.5.218:9901/tsfile/live/faacts/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/山西卫视.png",山西卫视
+http://192.168.102.1/hls/48/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/山西卫视.png",山西卫视
+http://192.168.102.1/hls/48/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/广东卫视.png",广东卫视
+http://112.27.5.218:9901/tsfile/live/0125_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/广东卫视.png",广东卫视
+http://112.27.5.218:9901/tsfile/live/faacts/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/广东卫视.png",广东卫视
+http://218.13.139.26:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/广东卫视.png",广东卫视
+http://113.57.140.161:10081/newlive/live/hls/34/live.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/广东卫视.png",广东卫视
+http://192.168.102.1/hls/30/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/广东卫视.png",广东卫视
+http://192.168.102.1/hls/30/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/广西卫视.png",广西卫视
+http://112.27.5.218:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/广西卫视.png",广西卫视
+http://112.27.5.218:9901/tsfile/live/faacts/0113_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/广西卫视.png",广西卫视
+http://192.168.102.1/hls/19/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/广西卫视.png",广西卫视
+http://192.168.102.1/hls/19/index.m3u8
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/康巴卫视.png",康巴卫视
+http://192.168.102.1/hls/59/index.m3u8
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/康巴卫视.png",康巴卫视
+http://192.168.102.1/hls/59/index.m3u8
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/延边卫视.png",延边卫视
+http://192.168.102.1/hls/60/index.m3u8
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/延边卫视.png",延边卫视
+http://192.168.102.1/hls/60/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/新疆卫视.png",新疆卫视
+http://112.27.5.218:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/新疆卫视.png",新疆卫视
+http://192.168.102.1/hls/54/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/新疆卫视.png",新疆卫视
+http://192.168.102.1/hls/54/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/江苏卫视.png",江苏卫视
+http://112.27.5.218:9901/tsfile/live/faacts/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/江苏卫视.png",江苏卫视
+http://218.13.139.26:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/江苏卫视.png",江苏卫视
+http://113.57.140.161:10081/newlive/live/hls/31/live.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/江苏卫视.png",江苏卫视
+http://192.168.102.1/hls/28/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/江苏卫视.png",江苏卫视
+http://192.168.102.1/hls/28/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/江西卫视.png",江西卫视
+http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/江西卫视.png",江西卫视
+http://192.168.102.1/hls/38/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/江西卫视.png",江西卫视
+http://192.168.102.1/hls/38/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/河北卫视.png",河北卫视
+http://112.27.5.218:9901/tsfile/live/faacts/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/河北卫视.png",河北卫视
+http://112.27.5.218:9901/tsfile/live/0117_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/河北卫视.png",河北卫视
+http://218.13.139.26:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/河北卫视.png",河北卫视
+http://113.57.140.161:10081/newlive/live/hls/33/live.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/河北卫视.png",河北卫视
+http://192.168.102.1/hls/43/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/河北卫视.png",河北卫视
+http://192.168.102.1/hls/43/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/河南卫视.png",河南卫视
+http://112.27.5.218:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/河南卫视.png",河南卫视
+http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/河南卫视.png",河南卫视
+http://111.59.139.85:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/浙江卫视.png",浙江卫视
+http://112.27.5.218:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/浙江卫视.png",浙江卫视
+http://218.13.139.26:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/浙江卫视.png",浙江卫视
+http://113.57.140.161:10081/newlive/live/hls/32/live.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/浙江卫视.png",浙江卫视
+http://192.168.102.1/hls/25/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/浙江卫视.png",浙江卫视
+http://192.168.102.1/hls/25/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/海南卫视.png",海南卫视
+http://192.168.102.1/hls/42/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/海南卫视.png",海南卫视
+http://192.168.102.1/hls/42/index.m3u8
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/海峡卫视.png",海峡卫视
+http://113.57.140.161:10081/newlive/live/hls/27/live.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/深圳卫视.png",深圳卫视
+http://112.27.5.218:9901/tsfile/live/faacts/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/深圳卫视.png",深圳卫视
+http://112.27.5.218:9901/tsfile/live/0126_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/深圳卫视.png",深圳卫视
+http://218.13.139.26:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/深圳卫视.png",深圳卫视
+http://113.57.140.161:10081/newlive/live/hls/37/live.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/深圳卫视.png",深圳卫视
+http://192.168.102.1/hls/33/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/深圳卫视.png",深圳卫视
+http://192.168.102.1/hls/33/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/湖北卫视.png",湖北卫视
+http://112.27.5.218:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/湖北卫视.png",湖北卫视
+http://218.13.139.26:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/湖北卫视.png",湖北卫视
+http://113.57.140.161:10081/newlive/live/hls/36/live.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/湖北卫视.png",湖北卫视
+http://192.168.102.1/hls/35/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/湖北卫视.png",湖北卫视
+http://192.168.102.1/hls/35/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/湖南卫视.png",湖南卫视
+http://112.27.5.218:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/湖南卫视.png",湖南卫视
+http://112.27.5.218:9901/tsfile/live/faacts/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/湖南卫视.png",湖南卫视
+http://218.13.139.26:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/湖南卫视.png",湖南卫视
+http://113.57.140.161:10081/newlive/live/hls/30/live.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/湖南卫视.png",湖南卫视
+http://192.168.102.1/hls/24/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/湖南卫视.png",湖南卫视
+http://192.168.102.1/hls/24/index.m3u8
+#EXTINF:-1 tvg-name="澳亚卫视台" tvg-logo="http://epg.myhone.dpdns.org/tv/澳亚卫视台.png",澳亚卫视台
+http://218.13.139.26:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/甘肃卫视.png",甘肃卫视
+http://192.168.102.1/hls/46/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/甘肃卫视.png",甘肃卫视
+http://192.168.102.1/hls/46/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/西藏卫视.png",西藏卫视
+http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/西藏卫视.png",西藏卫视
+http://192.168.102.1/hls/55/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/西藏卫视.png",西藏卫视
+http://192.168.102.1/hls/55/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/贵州卫视.png",贵州卫视
+http://112.27.5.218:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/贵州卫视.png",贵州卫视
+http://113.57.140.161:10081/newlive/live/hls/39/live.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/贵州卫视.png",贵州卫视
+http://192.168.102.1/hls/40/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/贵州卫视.png",贵州卫视
+http://192.168.102.1/hls/40/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/辽宁卫视.png",辽宁卫视
+http://112.27.5.218:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/辽宁卫视.png",辽宁卫视
+http://218.13.139.26:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/辽宁卫视.png",辽宁卫视
+http://192.168.102.1/hls/44/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/辽宁卫视.png",辽宁卫视
+http://192.168.102.1/hls/44/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/重庆卫视.png",重庆卫视
+http://112.27.5.218:9901/tsfile/live/faacts/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/重庆卫视.png",重庆卫视
+http://218.13.139.26:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/重庆卫视.png",重庆卫视
+http://192.168.102.1/hls/41/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/重庆卫视.png",重庆卫视
+http://192.168.102.1/hls/41/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/陕西卫视.png",陕西卫视
+http://112.27.5.218:9901/tsfile/live/faacts/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/陕西卫视.png",陕西卫视
+http://112.27.5.218:9901/tsfile/live/0136_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/陕西卫视.png",陕西卫视
+http://218.13.139.26:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/陕西卫视.png",陕西卫视
+http://192.168.102.1/hls/50/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/陕西卫视.png",陕西卫视
+http://192.168.102.1/hls/50/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/青海卫视.png",青海卫视
+http://112.27.5.218:9901/tsfile/live/faacts/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/青海卫视.png",青海卫视
+http://112.27.5.218:9901/tsfile/live/0140_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/青海卫视.png",青海卫视
+http://218.13.139.26:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/青海卫视.png",青海卫视
+http://192.168.102.1/hls/47/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/青海卫视.png",青海卫视
+http://192.168.102.1/hls/47/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/黑龙江卫视.png",黑龙江卫视
+http://112.27.5.218:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/黑龙江卫视.png",黑龙江卫视
+http://218.13.139.26:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/黑龙江卫视.png",黑龙江卫视
+http://113.57.140.161:10081/newlive/live/hls/38/live.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/黑龙江卫视.png",黑龙江卫视
+http://192.168.102.1/hls/45/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://epg.myhone.dpdns.org/tv/黑龙江卫视.png",黑龙江卫视
+http://192.168.102.1/hls/45/index.m3u8
+#EXTINF:-1 tvg-name="4K电影" tvg-logo="http://epg.myhone.dpdns.org/tv/4K电影.png",4K电影
+http://111.59.139.82:11888/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="4K电影" tvg-logo="http://epg.myhone.dpdns.org/tv/4K电影.png",4K电影
+http://111.59.139.85:11888/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="http://epg.myhone.dpdns.org/tv/CETV1.png",CETV1
+http://112.27.5.218:9901/tsfile/live/faacts/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="http://epg.myhone.dpdns.org/tv/CETV1.png",CETV1
+http://112.27.5.218:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="http://epg.myhone.dpdns.org/tv/CGTN.png",CGTN
+http://113.57.140.161:10081/newlive/live/hls/18/live.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="http://epg.myhone.dpdns.org/tv/CHC家庭影院.png",CHC家庭影院
+http://218.13.139.26:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CHC电影" tvg-logo="http://epg.myhone.dpdns.org/tv/CHC电影.png",CHC电影
+http://112.27.5.218:9901/tsfile/live/faacts/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="http://epg.myhone.dpdns.org/tv/东方财经.png",东方财经
+http://112.27.5.218:9901/tsfile/live/faacts/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="中国教育1" tvg-logo="http://epg.myhone.dpdns.org/tv/中国教育1.png",中国教育1
+http://192.168.100.1/hls/67/index.m3u8
+#EXTINF:-1 tvg-name="中国教育1" tvg-logo="http://epg.myhone.dpdns.org/tv/中国教育1.png",中国教育1
+http://192.168.100.1/hls/67/index.m3u8
+#EXTINF:-1 tvg-name="中国教育2" tvg-logo="http://epg.myhone.dpdns.org/tv/中国教育2.png",中国教育2
+http://192.168.100.1/hls/68/index.m3u8
+#EXTINF:-1 tvg-name="中国教育2" tvg-logo="http://epg.myhone.dpdns.org/tv/中国教育2.png",中国教育2
+http://192.168.100.1/hls/68/index.m3u8
+#EXTINF:-1 tvg-name="中国教育4" tvg-logo="http://epg.myhone.dpdns.org/tv/中国教育4.png",中国教育4
+http://192.168.100.1/hls/69/index.m3u8
+#EXTINF:-1 tvg-name="中国教育4" tvg-logo="http://epg.myhone.dpdns.org/tv/中国教育4.png",中国教育4
+http://192.168.100.1/hls/69/index.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="http://epg.myhone.dpdns.org/tv/优漫卡通.png",优漫卡通
+http://192.168.102.1/hls/66/index.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="http://epg.myhone.dpdns.org/tv/优漫卡通.png",优漫卡通
+http://192.168.102.1/hls/66/index.m3u8
+#EXTINF:-1 tvg-name="军事评论" tvg-logo="http://epg.myhone.dpdns.org/tv/军事评论.png",军事评论
+http://192.168.102.1/hls/85/index.m3u8
+#EXTINF:-1 tvg-name="军事评论" tvg-logo="http://epg.myhone.dpdns.org/tv/军事评论.png",军事评论
+http://192.168.102.1/hls/85/index.m3u8
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="http://epg.myhone.dpdns.org/tv/军旅剧场.png",军旅剧场
+http://192.168.102.1/hls/84/index.m3u8
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="http://epg.myhone.dpdns.org/tv/军旅剧场.png",军旅剧场
+http://192.168.102.1/hls/84/index.m3u8
+#EXTINF:-1 tvg-name="农业致富" tvg-logo="http://epg.myhone.dpdns.org/tv/农业致富.png",农业致富
+http://192.168.102.1/hls/86/index.m3u8
+#EXTINF:-1 tvg-name="农业致富" tvg-logo="http://epg.myhone.dpdns.org/tv/农业致富.png",农业致富
+http://192.168.102.1/hls/86/index.m3u8
+#EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="http://epg.myhone.dpdns.org/tv/凤凰中文台.png",凤凰中文台
+http://218.13.139.26:9901/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="http://epg.myhone.dpdns.org/tv/动作电影.png",动作电影
+http://111.59.139.82:11888/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="http://epg.myhone.dpdns.org/tv/动作电影.png",动作电影
+http://192.168.102.1/hls/83/index.m3u8
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="http://epg.myhone.dpdns.org/tv/动作电影.png",动作电影
+http://111.59.139.85:11888/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="http://epg.myhone.dpdns.org/tv/动作电影.png",动作电影
+http://192.168.102.1/hls/83/index.m3u8
+#EXTINF:-1 tvg-name="北京纪实" tvg-logo="http://epg.myhone.dpdns.org/tv/北京纪实.png",北京纪实
+http://192.168.100.1/hls/56/index.m3u8
+#EXTINF:-1 tvg-name="北京纪实" tvg-logo="http://epg.myhone.dpdns.org/tv/北京纪实.png",北京纪实
+http://192.168.100.1/hls/56/index.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="http://epg.myhone.dpdns.org/tv/卡酷少儿.png",卡酷少儿
+http://112.27.5.218:9901/tsfile/live/faacts/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="http://epg.myhone.dpdns.org/tv/卡酷少儿.png",卡酷少儿
+http://112.27.5.218:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="http://epg.myhone.dpdns.org/tv/卡酷少儿.png",卡酷少儿
+http://192.168.102.1/hls/65/index.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="http://epg.myhone.dpdns.org/tv/卡酷少儿.png",卡酷少儿
+http://111.59.139.82:11888/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="http://epg.myhone.dpdns.org/tv/卡酷少儿.png",卡酷少儿
+http://192.168.102.1/hls/65/index.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="http://epg.myhone.dpdns.org/tv/卡酷少儿.png",卡酷少儿
+http://111.59.139.85:11888/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="http://epg.myhone.dpdns.org/tv/古装剧场.png",古装剧场
+http://192.168.102.1/hls/82/index.m3u8
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="http://epg.myhone.dpdns.org/tv/古装剧场.png",古装剧场
+http://192.168.102.1/hls/82/index.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="http://epg.myhone.dpdns.org/tv/嘉佳卡通.png",嘉佳卡通
+http://218.13.139.26:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="http://epg.myhone.dpdns.org/tv/嘉佳卡通.png",嘉佳卡通
+http://192.168.102.1/hls/64/index.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="http://epg.myhone.dpdns.org/tv/嘉佳卡通.png",嘉佳卡通
+http://192.168.102.1/hls/64/index.m3u8
+#EXTINF:-1 tvg-name="安徽公共" tvg-logo="http://epg.myhone.dpdns.org/tv/安徽公共.png",安徽公共
+http://112.27.5.218:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="安徽影视" tvg-logo="http://epg.myhone.dpdns.org/tv/安徽影视.png",安徽影视
+http://112.27.5.218:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="安徽科教" tvg-logo="http://epg.myhone.dpdns.org/tv/安徽科教.png",安徽科教
+http://112.27.5.218:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="安徽经济" tvg-logo="http://epg.myhone.dpdns.org/tv/安徽经济.png",安徽经济
+http://112.27.5.218:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="安徽综艺" tvg-logo="http://epg.myhone.dpdns.org/tv/安徽综艺.png",安徽综艺
+http://112.27.5.218:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="宣城公共" tvg-logo="http://epg.myhone.dpdns.org/tv/宣城公共.png",宣城公共
+http://112.27.5.218:9901/tsfile/live/faacts/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="宣城综合" tvg-logo="http://epg.myhone.dpdns.org/tv/宣城综合.png",宣城综合
+http://112.27.5.218:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="家庭影院" tvg-logo="http://epg.myhone.dpdns.org/tv/家庭影院.png",家庭影院
+http://111.59.139.82:11888/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="家庭影院" tvg-logo="http://epg.myhone.dpdns.org/tv/家庭影院.png",家庭影院
+http://111.59.139.85:11888/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="http://epg.myhone.dpdns.org/tv/山东教育.png",山东教育
+http://192.168.102.1/hls/70/index.m3u8
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="http://epg.myhone.dpdns.org/tv/山东教育.png",山东教育
+http://192.168.102.1/hls/70/index.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="http://epg.myhone.dpdns.org/tv/广东体育.png",广东体育
+http://218.13.139.26:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东少儿" tvg-logo="http://epg.myhone.dpdns.org/tv/广东少儿.png",广东少儿
+http://218.13.139.26:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="http://epg.myhone.dpdns.org/tv/广东新闻.png",广东新闻
+http://218.13.139.26:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="http://epg.myhone.dpdns.org/tv/广东珠江.png",广东珠江
+http://218.13.139.26:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广德一套" tvg-logo="http://epg.myhone.dpdns.org/tv/广德一套.png",广德一套
+http://112.27.5.218:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广德一套" tvg-logo="http://epg.myhone.dpdns.org/tv/广德一套.png",广德一套
+http://112.27.5.218:9901/tsfile/live/faacts/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广德二套" tvg-logo="http://epg.myhone.dpdns.org/tv/广德二套.png",广德二套
+http://112.27.5.218:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广德二套" tvg-logo="http://epg.myhone.dpdns.org/tv/广德二套.png",广德二套
+http://112.27.5.218:9901/tsfile/live/faacts/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广西综艺" tvg-logo="http://epg.myhone.dpdns.org/tv/广西综艺.png",广西综艺
+http://111.59.139.82:11888/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广西综艺" tvg-logo="http://epg.myhone.dpdns.org/tv/广西综艺.png",广西综艺
+http://111.59.139.85:11888/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="http://epg.myhone.dpdns.org/tv/快乐垂钓.png",快乐垂钓
+http://112.27.5.218:9901/tsfile/live/faacts/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="快乐购" tvg-logo="http://epg.myhone.dpdns.org/tv/快乐购.png",快乐购
+http://112.27.5.218:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="怡伴健康" tvg-logo="http://epg.myhone.dpdns.org/tv/怡伴健康.png",怡伴健康
+http://192.168.102.1/hls/89/index.m3u8
+#EXTINF:-1 tvg-name="怡伴健康" tvg-logo="http://epg.myhone.dpdns.org/tv/怡伴健康.png",怡伴健康
+http://192.168.102.1/hls/89/index.m3u8
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="http://epg.myhone.dpdns.org/tv/新动漫.png",新动漫
+http://111.59.139.82:11888/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="http://epg.myhone.dpdns.org/tv/新动漫.png",新动漫
+http://111.59.139.85:11888/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="新视觉" tvg-logo="http://epg.myhone.dpdns.org/tv/新视觉.png",新视觉
+http://112.27.5.218:9901/tsfile/live/faacts/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="时尚购物" tvg-logo="http://epg.myhone.dpdns.org/tv/时尚购物.png",时尚购物
+http://112.27.5.218:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试01" tvg-logo="http://epg.myhone.dpdns.org/tv/测试01.png",测试01
+http://111.59.139.82:11888/tsfile/live/1201_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试01" tvg-logo="http://epg.myhone.dpdns.org/tv/测试01.png",测试01
+http://111.59.139.85:11888/tsfile/live/1201_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试02" tvg-logo="http://epg.myhone.dpdns.org/tv/测试02.png",测试02
+http://111.59.139.82:11888/tsfile/live/1202_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试02" tvg-logo="http://epg.myhone.dpdns.org/tv/测试02.png",测试02
+http://111.59.139.85:11888/tsfile/live/1202_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试03" tvg-logo="http://epg.myhone.dpdns.org/tv/测试03.png",测试03
+http://111.59.139.82:11888/tsfile/live/1203_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试03" tvg-logo="http://epg.myhone.dpdns.org/tv/测试03.png",测试03
+http://111.59.139.85:11888/tsfile/live/1203_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试04" tvg-logo="http://epg.myhone.dpdns.org/tv/测试04.png",测试04
+http://111.59.139.82:11888/tsfile/live/1204_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试04" tvg-logo="http://epg.myhone.dpdns.org/tv/测试04.png",测试04
+http://111.59.139.85:11888/tsfile/live/1204_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试05" tvg-logo="http://epg.myhone.dpdns.org/tv/测试05.png",测试05
+http://111.59.139.82:11888/tsfile/live/1205_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试05" tvg-logo="http://epg.myhone.dpdns.org/tv/测试05.png",测试05
+http://111.59.139.85:11888/tsfile/live/1205_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试06" tvg-logo="http://epg.myhone.dpdns.org/tv/测试06.png",测试06
+http://111.59.139.82:11888/tsfile/live/1206_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试06" tvg-logo="http://epg.myhone.dpdns.org/tv/测试06.png",测试06
+http://111.59.139.85:11888/tsfile/live/1206_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试07" tvg-logo="http://epg.myhone.dpdns.org/tv/测试07.png",测试07
+http://111.59.139.82:11888/tsfile/live/1207_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试07" tvg-logo="http://epg.myhone.dpdns.org/tv/测试07.png",测试07
+http://111.59.139.85:11888/tsfile/live/1207_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试08" tvg-logo="http://epg.myhone.dpdns.org/tv/测试08.png",测试08
+http://111.59.139.82:11888/tsfile/live/1208_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试08" tvg-logo="http://epg.myhone.dpdns.org/tv/测试08.png",测试08
+http://111.59.139.85:11888/tsfile/live/1208_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试09" tvg-logo="http://epg.myhone.dpdns.org/tv/测试09.png",测试09
+http://111.59.139.82:11888/tsfile/live/1209_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试09" tvg-logo="http://epg.myhone.dpdns.org/tv/测试09.png",测试09
+http://111.59.139.85:11888/tsfile/live/1209_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试10" tvg-logo="http://epg.myhone.dpdns.org/tv/测试10.png",测试10
+http://111.59.139.82:11888/tsfile/live/1210_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试10" tvg-logo="http://epg.myhone.dpdns.org/tv/测试10.png",测试10
+http://111.59.139.85:11888/tsfile/live/1210_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试11" tvg-logo="http://epg.myhone.dpdns.org/tv/测试11.png",测试11
+http://111.59.139.82:11888/tsfile/live/1211_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试11" tvg-logo="http://epg.myhone.dpdns.org/tv/测试11.png",测试11
+http://111.59.139.85:11888/tsfile/live/1211_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试12" tvg-logo="http://epg.myhone.dpdns.org/tv/测试12.png",测试12
+http://111.59.139.82:11888/tsfile/live/1212_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试12" tvg-logo="http://epg.myhone.dpdns.org/tv/测试12.png",测试12
+http://111.59.139.85:11888/tsfile/live/1212_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试13" tvg-logo="http://epg.myhone.dpdns.org/tv/测试13.png",测试13
+http://111.59.139.82:11888/tsfile/live/1213_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试13" tvg-logo="http://epg.myhone.dpdns.org/tv/测试13.png",测试13
+http://111.59.139.85:11888/tsfile/live/1213_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试14" tvg-logo="http://epg.myhone.dpdns.org/tv/测试14.png",测试14
+http://111.59.139.82:11888/tsfile/live/1214_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试14" tvg-logo="http://epg.myhone.dpdns.org/tv/测试14.png",测试14
+http://111.59.139.85:11888/tsfile/live/1214_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试15" tvg-logo="http://epg.myhone.dpdns.org/tv/测试15.png",测试15
+http://111.59.139.82:11888/tsfile/live/1215_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试15" tvg-logo="http://epg.myhone.dpdns.org/tv/测试15.png",测试15
+http://111.59.139.85:11888/tsfile/live/1215_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试16" tvg-logo="http://epg.myhone.dpdns.org/tv/测试16.png",测试16
+http://111.59.139.82:11888/tsfile/live/1216_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试16" tvg-logo="http://epg.myhone.dpdns.org/tv/测试16.png",测试16
+http://111.59.139.85:11888/tsfile/live/1216_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试17" tvg-logo="http://epg.myhone.dpdns.org/tv/测试17.png",测试17
+http://111.59.139.82:11888/tsfile/live/1217_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试17" tvg-logo="http://epg.myhone.dpdns.org/tv/测试17.png",测试17
+http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试18" tvg-logo="http://epg.myhone.dpdns.org/tv/测试18.png",测试18
+http://111.59.139.82:11888/tsfile/live/1218_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试18" tvg-logo="http://epg.myhone.dpdns.org/tv/测试18.png",测试18
+http://111.59.139.85:11888/tsfile/live/1218_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试19" tvg-logo="http://epg.myhone.dpdns.org/tv/测试19.png",测试19
+http://111.59.139.82:11888/tsfile/live/1219_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试19" tvg-logo="http://epg.myhone.dpdns.org/tv/测试19.png",测试19
+http://111.59.139.85:11888/tsfile/live/1219_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试20" tvg-logo="http://epg.myhone.dpdns.org/tv/测试20.png",测试20
+http://111.59.139.82:11888/tsfile/live/1220_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试20" tvg-logo="http://epg.myhone.dpdns.org/tv/测试20.png",测试20
+http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试21" tvg-logo="http://epg.myhone.dpdns.org/tv/测试21.png",测试21
+http://111.59.139.82:11888/tsfile/live/1221_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试21" tvg-logo="http://epg.myhone.dpdns.org/tv/测试21.png",测试21
+http://111.59.139.85:11888/tsfile/live/1221_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试22" tvg-logo="http://epg.myhone.dpdns.org/tv/测试22.png",测试22
+http://111.59.139.82:11888/tsfile/live/1222_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试22" tvg-logo="http://epg.myhone.dpdns.org/tv/测试22.png",测试22
+http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试23" tvg-logo="http://epg.myhone.dpdns.org/tv/测试23.png",测试23
+http://111.59.139.82:11888/tsfile/live/1223_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试23" tvg-logo="http://epg.myhone.dpdns.org/tv/测试23.png",测试23
+http://111.59.139.85:11888/tsfile/live/1223_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试24" tvg-logo="http://epg.myhone.dpdns.org/tv/测试24.png",测试24
+http://111.59.139.82:11888/tsfile/live/1224_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试24" tvg-logo="http://epg.myhone.dpdns.org/tv/测试24.png",测试24
+http://111.59.139.85:11888/tsfile/live/1224_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="热播精选" tvg-logo="http://epg.myhone.dpdns.org/tv/热播精选.png",热播精选
+http://192.168.102.1/hls/75/index.m3u8
+#EXTINF:-1 tvg-name="热播精选" tvg-logo="http://epg.myhone.dpdns.org/tv/热播精选.png",热播精选
+http://192.168.102.1/hls/75/index.m3u8
+#EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="http://epg.myhone.dpdns.org/tv/爱情喜剧.png",爱情喜剧
+http://192.168.102.1/hls/77/index.m3u8
+#EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="http://epg.myhone.dpdns.org/tv/爱情喜剧.png",爱情喜剧
+http://192.168.102.1/hls/77/index.m3u8
+#EXTINF:-1 tvg-name="玉林新闻" tvg-logo="http://epg.myhone.dpdns.org/tv/玉林新闻.png",玉林新闻
+http://111.59.139.82:11888/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="玉林新闻" tvg-logo="http://epg.myhone.dpdns.org/tv/玉林新闻.png",玉林新闻
+http://111.59.139.85:11888/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="珠江" tvg-logo="http://epg.myhone.dpdns.org/tv/珠江.png",珠江
+http://192.168.102.1/hls/31/index.m3u8
+#EXTINF:-1 tvg-name="珠江" tvg-logo="http://epg.myhone.dpdns.org/tv/珠江.png",珠江
+http://192.168.102.1/hls/31/index.m3u8
+#EXTINF:-1 tvg-name="电影" tvg-logo="http://epg.myhone.dpdns.org/tv/电影.png",电影
+http://111.59.139.82:11888/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="电影" tvg-logo="http://epg.myhone.dpdns.org/tv/电影.png",电影
+http://111.59.139.85:11888/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="福建乡村振兴" tvg-logo="http://epg.myhone.dpdns.org/tv/福建乡村振兴.png",福建乡村振兴
+http://113.57.140.161:10081/newlive/live/hls/21/live.m3u8
+#EXTINF:-1 tvg-name="福建少儿" tvg-logo="http://epg.myhone.dpdns.org/tv/福建少儿.png",福建少儿
+http://113.57.140.161:10081/newlive/live/hls/26/live.m3u8
+#EXTINF:-1 tvg-name="福建新闻" tvg-logo="http://epg.myhone.dpdns.org/tv/福建新闻.png",福建新闻
+http://113.57.140.161:10081/newlive/live/hls/22/live.m3u8
+#EXTINF:-1 tvg-name="福建旅游" tvg-logo="http://epg.myhone.dpdns.org/tv/福建旅游.png",福建旅游
+http://113.57.140.161:10081/newlive/live/hls/24/live.m3u8
+#EXTINF:-1 tvg-name="福建电视剧" tvg-logo="http://epg.myhone.dpdns.org/tv/福建电视剧.png",福建电视剧
+http://113.57.140.161:10081/newlive/live/hls/23/live.m3u8
+#EXTINF:-1 tvg-name="福建经济生活" tvg-logo="http://epg.myhone.dpdns.org/tv/福建经济生活.png",福建经济生活
+http://113.57.140.161:10081/newlive/live/hls/25/live.m3u8
+#EXTINF:-1 tvg-name="福建综合" tvg-logo="http://epg.myhone.dpdns.org/tv/福建综合.png",福建综合
+http://113.57.140.161:10081/newlive/live/hls/19/live.m3u8
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="http://epg.myhone.dpdns.org/tv/精品体育.png",精品体育
+http://192.168.100.1/hls/90/index.m3u8
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="http://epg.myhone.dpdns.org/tv/精品体育.png",精品体育
+http://192.168.100.1/hls/90/index.m3u8
+#EXTINF:-1 tvg-name="精品大剧" tvg-logo="http://epg.myhone.dpdns.org/tv/精品大剧.png",精品大剧
+http://192.168.102.1/hls/78/index.m3u8
+#EXTINF:-1 tvg-name="精品大剧" tvg-logo="http://epg.myhone.dpdns.org/tv/精品大剧.png",精品大剧
+http://192.168.102.1/hls/78/index.m3u8
+#EXTINF:-1 tvg-name="精品纪录" tvg-logo="http://epg.myhone.dpdns.org/tv/精品纪录.png",精品纪录
+http://192.168.102.1/hls/87/index.m3u8
+#EXTINF:-1 tvg-name="精品纪录" tvg-logo="http://epg.myhone.dpdns.org/tv/精品纪录.png",精品纪录
+http://192.168.102.1/hls/87/index.m3u8
+#EXTINF:-1 tvg-name="精彩影视" tvg-logo="http://epg.myhone.dpdns.org/tv/精彩影视.png",精彩影视
+http://112.27.5.218:9901/tsfile/live/faacts/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="纪实科教" tvg-logo="http://epg.myhone.dpdns.org/tv/纪实科教.png",纪实科教
+http://112.27.5.218:9901/tsfile/live/faacts/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="纪实科教" tvg-logo="http://epg.myhone.dpdns.org/tv/纪实科教.png",纪实科教
+http://112.27.5.218:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="茶" tvg-logo="http://epg.myhone.dpdns.org/tv/茶.png",茶
+http://112.27.5.218:9901/tsfile/live/faacts/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="http://epg.myhone.dpdns.org/tv/重温经典.png",重温经典
+http://112.27.5.218:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="http://epg.myhone.dpdns.org/tv/金牌综艺.png",金牌综艺
+http://192.168.102.1/hls/80/index.m3u8
+#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="http://epg.myhone.dpdns.org/tv/金牌综艺.png",金牌综艺
+http://192.168.102.1/hls/80/index.m3u8
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="http://epg.myhone.dpdns.org/tv/金色学堂.png",金色学堂
+http://112.27.5.218:9901/tsfile/live/faacts/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="http://epg.myhone.dpdns.org/tv/金鹰卡通.png",金鹰卡通
+http://112.27.5.218:9901/tsfile/live/faacts/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="http://epg.myhone.dpdns.org/tv/金鹰卡通.png",金鹰卡通
+http://112.27.5.218:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="http://epg.myhone.dpdns.org/tv/金鹰卡通.png",金鹰卡通
+http://192.168.102.1/hls/63/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="http://epg.myhone.dpdns.org/tv/金鹰卡通.png",金鹰卡通
+http://192.168.102.1/hls/63/index.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="http://epg.myhone.dpdns.org/tv/金鹰纪实.png",金鹰纪实
+http://192.168.102.1/hls/62/index.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="http://epg.myhone.dpdns.org/tv/金鹰纪实.png",金鹰纪实
+http://192.168.102.1/hls/62/index.m3u8
+#EXTINF:-1 tvg-name="预留节目1" tvg-logo="http://epg.myhone.dpdns.org/tv/预留节目1.png",预留节目1
+http://112.27.5.218:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="预留节目2" tvg-logo="http://epg.myhone.dpdns.org/tv/预留节目2.png",预留节目2
+http://112.27.5.218:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="香港翡翠" tvg-logo="http://epg.myhone.dpdns.org/tv/香港翡翠.png",香港翡翠
+http://218.13.139.26:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="http://epg.myhone.dpdns.org/tv/黑莓动画.png",黑莓动画
+http://192.168.102.1/hls/74/index.m3u8
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="http://epg.myhone.dpdns.org/tv/黑莓动画.png",黑莓动画
+http://192.168.102.1/hls/74/index.m3u8
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="http://epg.myhone.dpdns.org/tv/黑莓电影.png",黑莓电影
+http://192.168.102.1/hls/73/index.m3u8
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="http://epg.myhone.dpdns.org/tv/黑莓电影.png",黑莓电影
+http://192.168.102.1/hls/73/index.m3u8
